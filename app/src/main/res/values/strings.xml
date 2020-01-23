@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BilGaBook</string>
+    <string name="description_title">Bill Gates Book References</string>
+    <string name="description">This is the application is a collection of reference books that have been read by Bill Gates and some become Bestseller in New York. </string>
+    <string name="about_this_application">About This Application</string>
+    <string name="dicoding_account">Dicoding Account:</string>
+    <string name="heri_cahyono">Heri Cahyono</string>
+    <string name="developer">Developer</string>
+    <string name="username_herich11">Username: herich11</string>
+    <string name="e_mail_hericahyononew_gmail_com">E-mail: hericahyononew@gmail.com</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="hardcover">Hardcover</string>
+    <string name="language">Language</string>
+    <string name="publisher">Publisher</string>
+    <string name="isbn10">ISBN10</string>
+    <string name="isbn13">ISBN13</string>
+    <string name="dimension">Dimension</string>
+    <string name="weight">Weight</string>
+    <string name="review">Review</string>
+    <string name="todo">TODO</string>
+</resources>
